@@ -1,6 +1,6 @@
 # Creating-User-Accounts
 
-   Objective:  Create user accounts with specific attributes
+   **Objective:  Create user accounts with specific attributes**
 
 1. Starting with HR as an example, click New > User, then fill in the user details (e.g., John Doe with username: jdoe)
    
